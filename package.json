@@ -14,7 +14,15 @@
   "author": "Juan Ignacio Mosmann",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMosmann/CursoNPMPlatzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanMosmann/CursoNPMPlatzi/issues"
+  },
+  "homepage": "https://github.com/JuanMosmann/CursoNPMPlatzi#readme"
 }
